@@ -1,4 +1,4 @@
-baseURL = 'https://anniewangre.github.io/hugo-mock-landing-page'
+baseURL = 'https://anniewangre.github.io/hugo-mock-landing-page/'
 title = "Focus Management App"
 author = "Annie Wang"
 copyright = "Annie Wang"
