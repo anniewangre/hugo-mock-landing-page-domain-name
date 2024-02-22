@@ -1,6 +1,7 @@
 baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
 title = "Focus Management App"
-author = "Filipe Carneiro"
+author = "Annie Wang"
+copyright = "Annie Wang"
 
 timeZone = 'Europe/London'
 
