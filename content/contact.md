@@ -9,3 +9,5 @@ menu:
 # Contact
 
 [Github Page](https://github.com/anniewangre). 
+
+[Open an issue](https://github.com/anniewangre/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
